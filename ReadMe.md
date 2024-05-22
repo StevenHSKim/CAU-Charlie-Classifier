@@ -15,7 +15,7 @@
  
     
 + 19-7. combined_topic_model_kor.ipynb
-    + 1-1과 비슷한 모델인데 여러 토픽을 분류할 수 있다는 장점이 있음
+    + 19-5과 비슷한 모델인데 여러 토픽을 분류할 수 있다는 장점이 있음
 
 
 + 19-9. bertopic_kor.ipynb
